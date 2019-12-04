@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj": {}
+    "C:\\Users\\bramz\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj": {
+    "C:\\Users\\bramz\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj",
+        "projectUniqueName": "C:\\Users\\bramz\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj",
         "projectName": "MVC1000",
-        "projectPath": "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj",
+        "projectPath": "C:\\Users\\bramz\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj",
         "packagesPath": "C:\\Users\\bramz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\obj\\",
+        "outputPath": "C:\\Users\\bramz\\source\\repos\\MVC1000\\MVC1000\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
