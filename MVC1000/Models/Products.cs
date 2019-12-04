@@ -17,7 +17,8 @@ namespace MVC1000.Models
         public string Brand { get; set; }
         public string ShortDescription { get; set; }
         public string FullDescription { get; set; }
-        public Image Image { get; set; }
+        public string ImageFileName { get; set; }
+
         public string Height { get; set; }
         public string Weight { get; set; }
     }

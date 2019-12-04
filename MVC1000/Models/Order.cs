@@ -19,9 +19,9 @@ namespace MVC1000.Models
             Date = DateTime.Now;
         }
         public double Price { get; set; }
-        public Time StartTime { get; set; }
-        public Time EndTime { get; set; }
-        public Date DeliverAt { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+        public DateTime DeliverAt { get; set; }
 
     }
     public class ProductOrder

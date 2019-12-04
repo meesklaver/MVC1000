@@ -29,7 +29,7 @@ namespace MVC1000.Models
         public string Categorys { get; set; }
     }
 
-    public class CategoryProduct
+    public class Categoryproduct
     {
         [Key]
         public Products ProductId { get; set; }

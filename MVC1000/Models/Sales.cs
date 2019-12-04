@@ -1,5 +1,4 @@
-﻿using OfficeOpenXml.FormulaParsing.Excel.Functions.DateTime;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Drawing;
@@ -13,8 +12,9 @@ namespace MVC1000.Models
         [Key]
         public int SalesId { get; set; }
         public int DiscountPrice { get; set; }
-        public Date ValidUntil { get; set; }
-        public Image Image { get; set; }
+        public DateTime ValidUntil { get; set; }
+        public string ImageFileName { get; set; }
+
     }
 
     public class Productsale

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mees\\source\\repos\\meesklaver\\MVC1000\\MVC1000\\MVC1000.csproj": {}
+    "C:\\Users\\batuh\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mees\\source\\repos\\meesklaver\\MVC1000\\MVC1000\\MVC1000.csproj": {
+    "C:\\Users\\batuh\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mees\\source\\repos\\meesklaver\\MVC1000\\MVC1000\\MVC1000.csproj",
+        "projectUniqueName": "C:\\Users\\batuh\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj",
         "projectName": "MVC1000",
-        "projectPath": "C:\\Users\\Mees\\source\\repos\\meesklaver\\MVC1000\\MVC1000\\MVC1000.csproj",
-        "packagesPath": "C:\\Users\\Mees\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mees\\source\\repos\\meesklaver\\MVC1000\\MVC1000\\obj\\",
+        "projectPath": "C:\\Users\\batuh\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj",
+        "packagesPath": "C:\\Users\\batuh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuh\\Source\\Repos\\MVC1000\\MVC1000\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mees\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\batuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
