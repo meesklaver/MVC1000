@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mees\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj": {}
+    "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mees\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj": {
+    "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mees\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj",
+        "projectUniqueName": "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj",
         "projectName": "MVC1000",
-        "projectPath": "C:\\Users\\Mees\\source\\repos\\MVC1000\\MVC1000\\MVC1000.csproj",
-        "packagesPath": "C:\\Users\\Mees\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mees\\source\\repos\\MVC1000\\MVC1000\\obj\\",
+        "projectPath": "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\MVC1000.csproj",
+        "packagesPath": "C:\\Users\\bramz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bramz\\Source\\Repos\\MVC1000\\MVC1000\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mees\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bramz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +60,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -77,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
